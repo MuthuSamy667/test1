@@ -4,7 +4,8 @@ use warnings;
 
 # Initializing and defining the array 
 my @items = ( ['book', 'pen', 'pencil'], 
-			['Bat', 'Ball', 'Stumps'], 
+			['Bat', 'Ball', 'Stumps'],
+			['Apple', 'Orange', 'Banana'], 
 			['snake', 'rat', 'rabbit'] ); 
 
 # Printing items from the array 
