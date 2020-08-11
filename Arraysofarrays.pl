@@ -6,6 +6,7 @@ use warnings;
 my @items = ( ['book', 'pen', 'pencil'], 
 			['Bat', 'Ball', 'Stumps'],
 			['Apple', 'Orange', 'Banana'],
+			['Lion', 'Tiger', 'Elephant'], 
 			['snake', 'rat', 'rabbit'] ); 
 
 # Printing items from the array 
