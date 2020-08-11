@@ -5,7 +5,6 @@ use warnings;
 # Initializing and defining the array 
 my @items = ( ['book', 'pen', 'pencil'], 
 			['Bat', 'Ball', 'Stumps'],
-			['Apple', 'Orange', 'Banana'], 
 			['Lion', 'Tiger', 'Elephant'], 
 			['snake', 'rat', 'rabbit'] ); 
 
